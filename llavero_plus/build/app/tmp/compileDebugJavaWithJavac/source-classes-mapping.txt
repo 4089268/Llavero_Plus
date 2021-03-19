@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/llavero_plus/BuildConfig.java
+ com.example.llavero_plus.BuildConfig
